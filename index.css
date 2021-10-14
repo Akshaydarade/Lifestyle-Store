@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-Jun-2021, 5:20:14 PM
+    Author     : Akshay
+*/
+
+
+.banner-image{
+    padding-bottom: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(img/bg.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.inner-banner-image{
+    
+    padding-top: 12%;
+    padding-left:25%;
+    width:80%;
+    margin:auto;
+}
+
+.banner_content{
+    position: relative;
+ padding-top: 6%;
+ padding-bottom: 6%;
+ overflow:hidden;
+ margin-bottom: 12%;
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 660px;
+   }
+   
+   
+   #banner_image{
+       padding-top: 75px;
+padding-bottom: 50px;
+ text-align: center;
+ color: #f8f8f8;
+ background: url(img/bg.jpg) no-repeat center center;
+ background-size: cover
+   }
+   #banner_content{
+       position: relative;
+padding-top: 6%;
+ padding-bottom: 6%;
+ margin-top: 12%;
+ margin-left: 15%;
+ margin-right: 15%;
+ margin-bottom: 12%;
+ background-color: rgba(0, 0, 0, 0.7);
+max-width: 660px;
+   }
+   
+  
